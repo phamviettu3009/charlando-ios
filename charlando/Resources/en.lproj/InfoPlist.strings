@@ -1,0 +1,12 @@
+/* 
+  InfoPlist.strings
+  flow-ios
+
+  Created by Phạm Việt Tú on 04/05/2024.
+  
+*/
+
+"NSPhotoLibraryAddUsageDescription" = "This app requires access to your photos to save images or videos.";
+"NSCameraUsageDescription" = "This app requires camera access to take photos, enabling you to attach them to your messages.";
+"NSUserNotificationsUsageDescription" = "This app requires notification access to alert you whenever there's a new message.";
+"NSMicrophoneUsageDescription" = "This app requires microphone access to record audio, enabling you to attach them to your messages.";

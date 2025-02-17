@@ -1,0 +1,12 @@
+/* 
+  InfoPlist.strings
+  flow-ios
+
+  Created by Phạm Việt Tú on 04/05/2024.
+  
+*/
+
+"NSPhotoLibraryAddUsageDescription" = "Ứng dụng này yêu cầu quyền truy cập vào ảnh của bạn để lưu hình ảnh hoặc video.";
+"NSCameraUsageDescription" = "Ứng dụng này yêu cầu quyền truy cập vào máy ảnh để chụp ảnh, cho phép bạn đính kèm chúng vào tin nhắn của mình.";
+"NSUserNotificationsUsageDescription" = "Ứng dụng này cần quyền truy cập thông báo để thông báo cho bạn bất cứ khi nào có tin nhắn mới.";
+"NSMicrophoneUsageDescription" = "Ứng dụng này yêu cầu quyền truy cập micro để ghi lại âm thanh, cho phép bạn đính kèm chúng vào tin nhắn của mình.";
